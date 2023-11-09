@@ -199,11 +199,16 @@ h2{
     float: left;
     text-align: center;
 }
+
 .word-intro{
+    font-family: "ISOCPEUR";
+    text-align: center;
+    font-size: 1.25em;
     padding-top: 10px;
     width: 20%;
     float: left;
     text-align: center;
+    color: #191e47;
 }
 
 
